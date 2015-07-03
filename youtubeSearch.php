@@ -1,4 +1,5 @@
-<!-- this is the youtubeSearch.php file -->
+<!-- this is the youtubeSearch.php file
+This file will search youtube for cats and display 5 results in the form of titles, as well as uploading them to a MySQL database-->
 
 <!DOCTYPE html>
 <html>
